@@ -1,0 +1,31 @@
+h1{
+	color:red;
+	font-size:45px;
+}
+body{
+	background-color:aqua;
+	border-width:15px;
+	border-color:blue;
+	border-style:dashed;
+}
+
+a{
+	text-decoration:none;
+	color:red;
+	font-size:30px;
+}
+.hyring{
+	text-decoration:none;
+	color:red;
+	font-size:15px;
+	text-align:right;
+	
+}
+a:hover {
+    background-color: #0099ff;
+	color:black;
+	text-decoration:underline;
+}
+h2{
+	font-size:30px;
+}
